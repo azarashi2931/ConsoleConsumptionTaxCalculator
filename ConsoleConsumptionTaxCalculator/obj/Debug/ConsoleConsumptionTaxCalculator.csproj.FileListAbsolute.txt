@@ -1,0 +1,7 @@
+C:\Users\uraka\source\repos\ConsoleConsumptionTaxCalculator\ConsoleConsumptionTaxCalculator\bin\Debug\ConsoleConsumptionTaxCalculator.exe.config
+C:\Users\uraka\source\repos\ConsoleConsumptionTaxCalculator\ConsoleConsumptionTaxCalculator\bin\Debug\ConsoleConsumptionTaxCalculator.exe
+C:\Users\uraka\source\repos\ConsoleConsumptionTaxCalculator\ConsoleConsumptionTaxCalculator\bin\Debug\ConsoleConsumptionTaxCalculator.pdb
+C:\Users\uraka\source\repos\ConsoleConsumptionTaxCalculator\ConsoleConsumptionTaxCalculator\obj\Debug\ConsoleConsumptionTaxCalculator.csprojAssemblyReference.cache
+C:\Users\uraka\source\repos\ConsoleConsumptionTaxCalculator\ConsoleConsumptionTaxCalculator\obj\Debug\ConsoleConsumptionTaxCalculator.csproj.CoreCompileInputs.cache
+C:\Users\uraka\source\repos\ConsoleConsumptionTaxCalculator\ConsoleConsumptionTaxCalculator\obj\Debug\ConsoleConsumptionTaxCalculator.exe
+C:\Users\uraka\source\repos\ConsoleConsumptionTaxCalculator\ConsoleConsumptionTaxCalculator\obj\Debug\ConsoleConsumptionTaxCalculator.pdb
